@@ -1,0 +1,78 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+img {
+border-radius : 24px;
+}
+
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+
+#testimonial {
+  background: #D1EFF8;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+.btn-change{
+    height: 50px;
+    width: 100px;
+    background:#D9EEFF;
+    margin: 20px;
+    float: left;
+    box-shadow: 0 0 1px #ccc;
+    -webkit-transition: all 0.5s ease-in-out;
+    border: 4px;
+    color: #000;
+}
+
+.btn-change:hover{
+    -webkit-transform: scale(1.1);
+    background: #AAD6FB;
+}
+
+footer {
+  background: #F54F3E;
+}
+
+.card1:hover {
+      background:#F54F3E;
+      border:1px solid #F54F3E;
+    }
+
+    .card1:hover .list-group-item{
+      background:#F54F3E !important
+    }
+
+.card2:hover {
+      background:#00C9FF;
+      border:1px solid #00C9FF;
+    }
+
+    .card2:hover .list-group-item{
+      background:#00C9FF !important
+    }
+
+
+    .card3:hover {
+      background:#F54F3E;
+      border:1px solid #F54F3E;
+    }
+
+    .card3:hover .list-group-item{
+      background:#F54F3E !important
+    }
+
+.card:hover .btn-outline-dark{
+      color:white;
+      background:#212529;
+    }
+
+
+url(../img/smartphones.png)
